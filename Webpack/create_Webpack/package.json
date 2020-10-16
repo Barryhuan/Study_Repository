@@ -1,0 +1,16 @@
+{
+  "name": "webpack_study",
+  "version": "0.0.1",
+  "description": "This is my first webpack study project!!!",
+  "main": "main.js",
+  "scripts": {
+    "bundle": "webpack --config webpack.config.js"
+  },
+  "author": "Barry Allen",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.32.2",
+    "webpack-cli": "^3.3.2",
+    "webpack-dev-server": "^3.5.1"
+  }
+}
